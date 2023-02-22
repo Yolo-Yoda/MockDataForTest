@@ -1,20 +1,9 @@
-[
-{  "id": 1,
+{
+   "id": 123,
    "tagOfProduct": "Кальяны",
-   "imageOfProductURL": "http://example.com/image.png"
-},
-   {  "id": 2,
-   "tagOfProduct": "Табаки",
-   "imageOfProductURL": "http://example.com/image.png"
-},
-   {  "id": 3,
-   "tagOfProduct": "Миксы",
-   "imageOfProductURL": "http://example.com/image.png"
-},
-   {  "id": 4,
-   "imageOfProductURL": "http://example.com/image.png"
-"specificationOfProduct": {
-"height": "160"
+   "imageOfProductURL": "https://example.com/image.jpg",
+   "specificationOfProduct": {
+      "height": "30 см",
+      "connector": "14 мм"
+   }
 }
-}
-]
