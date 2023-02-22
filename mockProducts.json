@@ -1,3 +1,4 @@
+[
 {
    "id": 123,
    "tagOfProduct": "Кальяны",
@@ -6,4 +7,21 @@
       "height": "30 см",
       "connector": "14 мм"
    }
+},
+{
+   "id": 12,
+   "tagOfProduct": "Кальяны",
+   "imageOfProductURL": "https://example.com/image.jpg",
+   "specificationOfProduct": {
+      "connector": "14 мм"
+   }
+},
+{
+   "id": 5,
+   "tagOfProduct": "Кальяны",
+   "imageOfProductURL": "https://example.com/image.jpg",
+   "specificationOfProduct": {
+      "height": "30 см"
+   }
 }
+]
