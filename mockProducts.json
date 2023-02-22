@@ -1,14 +1,14 @@
 [
 {  "id": 1,
-   "tagOfProduct": "Кальян",
+   "tagOfProduct": "Кальяны",
    "imageOfProductURL": "http://example.com/image.png"
 },
    {  "id": 2,
-   "tagOfProduct": "Табак",
+   "tagOfProduct": "Табаки",
    "imageOfProductURL": "http://example.com/image.png"
 },
    {  "id": 3,
-   "tagOfProduct": "Микс",
+   "tagOfProduct": "Миксы",
    "imageOfProductURL": "http://example.com/image.png"
 },
    {  "id": 4,
