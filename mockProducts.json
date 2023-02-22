@@ -2,5 +2,16 @@
 {  "id": 1,
    "tagOfProduct": "Кальян",
    "imageOfProductURL": "http://example.com/image.png"
+},
+   {  "id": 2,
+   "tagOfProduct": "Табак",
+   "imageOfProductURL": "http://example.com/image.png"
+},
+   {  "id": 3,
+   "tagOfProduct": "Микс",
+   "imageOfProductURL": "http://example.com/image.png"
+},
+   {  "id": 4,
+   "imageOfProductURL": "http://example.com/image.png"
 }
 ]
