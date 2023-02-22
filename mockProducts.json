@@ -13,5 +13,8 @@
 },
    {  "id": 4,
    "imageOfProductURL": "http://example.com/image.png"
+"specificationOfProduct": {
+"height": "160"
+}
 }
 ]
