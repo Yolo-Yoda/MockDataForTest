@@ -1,6 +1,6 @@
 [
   {
-   "id": "0",
+   "id": 0,
    "tagOfProduct": "Кальяны",
    "imageOfProductURL": "https://hookah-magic.su/wp-content/uploads/2019/04/Alpha-Hookah-X-Purple-min.jpg",
    "allImagesOfProductURL": ["https://picsum.photos/800", "https://picsum.photos/800","https://picsum.photos/800","https://picsum.photos/800"],
@@ -8,14 +8,14 @@
    "descriptionOfProduct": "Все детали, контактирующие с влагой, выполнены из нержавеющей стали. Мундштук и декоративная накладка изготовлены из анодированного алюминия, окрашенного порошковой краской. Блюдце сделано из нержавеющей стали и также покрыто порошковой жаростойкой краской.",
    "detailDescriptionOfProduct": "Размеры:\nВнутренний диаметр погружной шахты – \n11 мм.\nДиаметр блюдца – 17 см.\nВысота кальяна с колбой – 35 см. \nОбратите внимание на компактность этого кальяна. Его удобно брать с собой в гости или на природу, а дома компактность делает кальян устойчивым.\nНа данный момент представлены две модели: Black и White. Между собой они отличаются цветом колбы.",
    "detailDescriptionOfSupply": "Кальян поставляется в коробке-сумке. Такой упаковки не встретишь у других производителей. Это дополнительное удобство, из-за которого покупатели часто делают выбор в пользу кальяна Beat.",
-   "raiting": "3.2",
-   "likes": "12",
-   "peopleLiked": "43",
-   "notificationCount": "56",
-   "bookMarkCount": "32",
+   "raiting": 3.2,
+   "likes": 12,
+   "peopleLiked": 43,
+   "notificationCount": 56,
+   "bookMarkCount": 32,
    "manufacturer": "Alpha Hookah",
    "imageOfManufacturer": "https://hookahflames.ru/wp-content/uploads/2021/04/0.jpg",
-   "price": "500",
+   "price": 500,
    "dateOfAdding": "2022-08-13T06:01:01.000000Z",
    "specificationOfProduct": {
      "height": "42 см",
