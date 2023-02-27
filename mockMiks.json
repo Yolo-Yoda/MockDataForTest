@@ -1,1 +1,40 @@
-
+[
+  {
+   "id": 0,
+   "tagOfProduct": "Миксы",
+   "imageOfProductURL": "https://hookah-catering.ru/img/mix/skittles3.jpg",
+   "allImagesOfProductURL": [],
+   "nameOfProduct": "1Adalya - Jungle Jungle (Лимон, Лайм, Грейпфрут)e",
+   "descriptionOfProduct": "Приятный сливочный вкус в тандеме с личи даёт поистине неповторимый вкус. Самое то что бы вам скорее расслабиться после тяжелого трудового дня. \nСоотношение табаков: личи 25%, мороженое 50%, личи 25%",
+   "raiting": 4.3,
+   "likes": 123,
+   "peopleLiked": 51,
+   "bookMarkCount": 21,
+   "manufacturer": "Nanosmoke",
+   "imageOfManufacturer": "https://img.youtube.com/vi/eM_mWnoD-V0/hqdefault.jpg",
+   "dateOfAdding": "2022-09-13T06:01:01.000000Z",
+   "specificationOfProduct": {
+     "taste": "Виноград, Мороженое, Ананас",
+     "categoryOfTasteTabaco": ["Ягодный", "Хвойный", "Цитрусовый"]
+   }
+  },
+  {
+   "id": 0,
+   "tagOfProduct": "Миксы",
+   "imageOfProductURL": "https://hookah-catering.ru/img/mix/skittles3.jpg",
+   "allImagesOfProductURL": [],
+   "nameOfProduct": "1Adalya - Jungle Jungle (Лимон, Лайм, Грейпфрут)e",
+   "descriptionOfProduct": "Приятный сливочный вкус в тандеме с личи даёт поистине неповторимый вкус. Самое то что бы вам скорее расслабиться после тяжелого трудового дня. \nСоотношение табаков: личи 25%, мороженое 50%, личи 25%",
+   "raiting": 4.3,
+   "likes": 123,
+   "peopleLiked": 51,
+   "bookMarkCount": 21,
+   "manufacturer": "Nanosmoke",
+   "imageOfManufacturer": "https://img.youtube.com/vi/eM_mWnoD-V0/hqdefault.jpg",
+   "dateOfAdding": "2022-09-13T06:01:01.000000Z",
+   "specificationOfProduct": {
+     "taste": "Виноград, Мороженое, Ананас",
+     "categoryOfTasteTabaco": ["Ягодный", "Хвойный", "Цитрусовый"]
+   }
+  }
+]
