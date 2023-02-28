@@ -1,6 +1,6 @@
 [
   {
-   "id": 0,
+   "id": 1000,
    "tagOfProduct": "Миксы",
    "imageOfProductURL": "https://hookah-catering.ru/img/mix/skittles3.jpg",
    "allImagesOfProductURL": [],
@@ -19,22 +19,43 @@
    }
   },
   {
-   "id": 0,
+   "id": 1001,
    "tagOfProduct": "Миксы",
    "imageOfProductURL": "https://hookah-catering.ru/img/mix/skittles3.jpg",
    "allImagesOfProductURL": [],
-   "nameOfProduct": "1Adalya - Jungle Jungle (Лимон, Лайм, Грейпфрут)e",
+   "nameOfProduct": "2Adalya - Jungle Jungle (Лимон, Лайм, Грейпфрут)",
    "descriptionOfProduct": "Приятный сливочный вкус в тандеме с личи даёт поистине неповторимый вкус. Самое то что бы вам скорее расслабиться после тяжелого трудового дня. \nСоотношение табаков: личи 25%, мороженое 50%, личи 25%",
-   "raiting": 4.3,
-   "likes": 123,
-   "peopleLiked": 51,
-   "bookMarkCount": 21,
-   "manufacturer": "Nanosmoke",
+   "detailDescriptionOfProduct": "Соотношение табаков: личи 25%, мороженое 50%, личи 25%",
+   "raiting": 3.3,
+   "likes": 23,
+   "peopleLiked": 61,
+   "bookMarkCount": 31,
+   "manufacturer": "Shisha",
    "imageOfManufacturer": "https://img.youtube.com/vi/eM_mWnoD-V0/hqdefault.jpg",
    "dateOfAdding": "2022-09-13T06:01:01.000000Z",
    "specificationOfProduct": {
      "taste": "Виноград, Мороженое, Ананас",
-     "categoryOfTasteTabaco": ["Ягодный", "Хвойный", "Цитрусовый"]
+     "categoryOfTasteTabaco": ["Ягодный", "Цитрусовый"]
+   }
+  },
+  {
+   "id": 1002,
+   "tagOfProduct": "Миксы",
+   "imageOfProductURL": "https://hookah-catering.ru/img/mix/skittles3.jpg",
+   "allImagesOfProductURL": [],
+   "nameOfProduct": "3Adalya - Jungle Jungle (Лимон, Лайм, Грейпфрут)e",
+   "descriptionOfProduct": "Приятный сливочный вкус в тандеме с личи даёт поистине неповторимый вкус. Самое то что бы вам скорее расслабиться после тяжелого трудового дня. \nСоотношение табаков: личи 25%, мороженое 50%, личи 25%",
+   "detailDescriptionOfProduct": "Соотношение табаков: личи 25%, мороженое 50%, личи 25%",
+   "raiting": 2.7,
+   "likes": 43,
+   "peopleLiked": 81,
+   "bookMarkCount": 61,
+   "manufacturer": "DarkSide",
+   "imageOfManufacturer": "https://img.youtube.com/vi/eM_mWnoD-V0/hqdefault.jpg",
+   "dateOfAdding": "2022-09-13T06:01:01.000000Z",
+   "specificationOfProduct": {
+     "taste": "Виноград, Мороженое, Ананас",
+     "categoryOfTasteTabaco": ["Ягодный", "Хвойный"]
    }
   }
 ]
